@@ -1,0 +1,41 @@
+{
+  "name": "marcopiraccini",
+  "version": "0.0.1",
+  "description": "Contact Information about Marco Piraccini",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "main": "./index.js",
+  "type": "module",
+  "bin": {
+    "marcopiraccini": "./index.js"
+  },
+  "files": [
+    "./index.js",
+    "./bin/output"
+  ],
+  "scripts": {
+    "postinstall": "node ./index.js",
+    "build": "node ./build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcopiraccini/marcopiraccini"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Marco Piraccini",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "boxen": "^7.0.0",
+    "chalk": "^5.1.2"
+  },
+  "standard": {
+    "ignore": [
+      "build.js"
+    ]
+  }
+}

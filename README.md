@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marco Piraccini</h1>
+<h1 align="center">I'm Marco Piraccini~</h1>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/marcopiraccini/">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a rel="me" href="https://fosstodon.org/@marcopiraccini">
-    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Mastodon Badge"/>
+    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
 </div>
 

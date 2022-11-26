@@ -1,6 +1,6 @@
 {
   "name": "marcopiraccini",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Contact Information about Marco Piraccini",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
